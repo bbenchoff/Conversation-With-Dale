@@ -1,68 +1,84 @@
-﻿ The Future We Make: A Community Conversation with Dale
-
+﻿The Future We Make: A Community Conversation with Dale
 
 July 8, 2019. 6:30pm / Circuit Launch 8000 Edgewater Drive Suite 200 Oakland, CA, 94621
 
-
 From: https://www.eventbrite.com/e/the-future-we-make-a-community-conversation-with-dale-tickets-64390363310
-
 
 Description:
 I would like to invite you as a maker and a contributor to the maker community to a conversation about the future of Make: and Maker Faire on Monday night at Circuit Launch. I’m sure you have read the news about Maker Media shutting down. It’s not the end, however, just a transition. There has been a tremendous outpouring of support from the community.
 
-
 Dan O'Mara and team at Circuit Launch were kind to offer to host a community discussion. Space is limited to 75 Attendees. Please RSVP only if you can make it, we understand it is short notice and there will be more of these town halls in the near future around the Bay Area.
-
 
 I’d like to keep you informed about these changes and engage you in thinking about how to sustain the maker movement. I look forward to seeing you.
 
-
 Warmly,
-
 
 Dale
 
-
 Length: 1h40m33s
-
 
 Abridged Transcription.
 ________________
-
-
-
-
-
 
 0:00:00
 Introductions for everyone in the room
 
 
 0:13:08
-DALE: So, thank you all for being here. Just trying to give you some background, and then I’d like to ask, ‘where do we go from here, what’s possible.’ I think there’s some question, where ordinary people would like to talk to makers, and I think we were kind of surprised by the answer to that. They [regular people] enjoy the opportunity to have a conversation with makers, ask questions about how they did something, what it was, how it worked, 
+DALE: So, thank you all for being here. [unint] then we'll have more of a conversation. Just trying to give you some background, 'what happened and why' and then I’d like to ask, ‘where do we go from here, what’s possible.’ [I see interesting people with projects and ideas and thought we'll what if they got to meet each other?] The hypothesis was 'do you think ordinary people would like to talk to makers about what they do and ask questions?  And I think we were kind of surprised by the answer to that. They [regular people] enjoy the opportunity to have a conversation with makers, ask questions about how they did something, what it was, how it worked, where they get materials.
 
 
 00:14:31
-DALE: and it sort of gave us a mission of trying to introduce more people to Making on any kind of level, be that crafting areas to robotics or science or anything. It was something to do. It wasn’t something you talked about. And so that’s pretty much the origin point of it. And I think the magazine was a way to share those instructions. There are no delusions that people are out there and doing every single project in it, but it sort of gave people a window into how things worked.
+DALE: and it sort of gave us a mission of trying to introduce more people to Making on any kind of level, the DIY crafting areas to robotics or science or anything. It was something to do. It wasn’t something people talked to you about. No, you do this and you buy this. And so that’s pretty much the origin point of it. And I think the magazine was a way to share those instructions with people like recipes. [unint] There are no delusions that people are out
+ there and doing every single project in it, but it sort of gave people a window into how things worked.
 
 
 00:15:12
-DALE: And when they have their own ideas, they could say, ‘well it’s a little bit like that project… where you could follow the idea there.
-So, we’ve been kind of following that as a mission, trying to follow the community of makers, but also to bring more people into it. More people that care about it. 
+DALE: And when they have their own ideas, they could say, ‘well it’s a little bit like that project I read about here, it's a little bit like this project, and I kind of can follow the idea there.
+So, we’ve been kind of following that as a mission, not only trying to organize a community of makers, but also to bring more people into it. More people that care about it. 
 00:15:45
-DALE: And there’s the idea that there’s a consumer culture and that it’s hard, and that you don’t have the time… But there’s the idea that if you have the time, go do it.
+DALE: And in our culture, the consumer culture anyway doesn't encourage them to see themselves as creators.  The idea is that it’s hard, and that you don’t have the time, it's not enjoyable. The basic premise of Maker Faire and Make magazine was 'hey this is fun, if you enjoy it, partly the people, you'll do it. [unint]
 00:16:14
-DALE: So that’s sort of a backdrop. Make Media started out under O’Reilly Media in Sebastopol where I live, and we worked there for seven or eight years until we had the oppurtunity to spin it out on its own. And I took venture capital. and then as it was taking off, there was the question of how do we make it work?
+DALE: So that’s sort of a backdrop. Maker Media started at O’Reilly Media in Sebastopol where I live, and we worked there for seven or eight years until we had the opportunity to spin it out on its own. And I took venture capital, the idea was to see if we could grow this and then as it was taking off, there was the question of how do we make it work?
 00:16:47
-DALE: But in some ways, it never seemed that this was a venture capital kind of business. There’s a lot of stuff that we gave away. In some ways, the funding model that we had as a business I think that we executed on the mission well but  that didn’t make investors happy. And I’ve been fighting that for quite a while. And to do what we do -- we have 200 maker faires around the world, we have a magazine, we have content, we do things that we wanted to do, how do we preserve that?
+DALE: But in some ways, it never seemed that this was a really good venture capital kind of business. There’s a lot of stuff that we gave away, it was hard to monetize things. In some ways, the funding model that we had as a business I think that we executed on the mission we had. I think we were executing on the mission pretty well but that didn’t make investors and others happy. And I’ve been fighting that for quite a while. And to do what we do -- we have 200 maker faires around the world, we have a magazine, we have content, we do things that we wanted to do, how do we preserve that?
 00:17:42
-DALE: And none of this as an idea really existed, and we did it by giving it a name and bringing people together. And I do think the thing I was most happy for was that we created a community. That you see a common goal, a common connection and i think that’s at the end of the day what I want to preserve and protect for the future. 
+DALE: And none of this as an idea really existed, and we kind of created it out of thin air by giving it a name and bringing people together. And I do think the thing I was most happy for was that we created a community of people that seek connections. All of you do very different things. [...] Through this idea of maker that you see a common goal, a common connection, a common goal a common purpose, and I think that’s at the end of the day what I want to preserve and protect for the future. 
 00:18:21
-DALE: Uh, so, without going into a lot of detail, Maker Faire was a victim of success. The faires were riskier to do and for us we were still a small company. What we’ve seen over the last year and a half is a decline in corporate sponsorship. And the way it kind of works is that corporate sponsorship kind of gave us the budget for the event, and ticket sales kind of pay expenses after it, and if there was a profit we made some, but they’re both pretty volatile.
+DALE: Uh, so, without going into a lot of detail, [unint] Maker Faire was a victim of success, it got bigger. The faires were riskier to do and for us we were still a small company. What we’ve seen over the last year and a half is a decline in corporate sponsorship. And the way it kind of works is that corporate sponsorship kind of gave us the budget for the event, and ticket sales kind of pay expenses after it, and if there was a profit we made some, but they’re both pretty volatile. This year it rained as you all know for 3 days. 
 00:19:04
-DALE: But still people came out. We did not have significant dropoff. But we could have. There were some people that said how big should the event be?, So what we have is in a way a scaled back version of previous maker faires but I don’t think anyone was unhappy. I was very happy [unintelligable]
-00:19:59: On June 3rd we basically stopped doing business. And, you know, the bank froze our accounts, and we’re making sure everyone is getting paid, so the last month has been legal, you know, financial, and sadly I let the team go.
+DALE: But still people came out. We did not have significant dropoff. But we could have. That's the kind of terror you live with at night and say, 'well what's going to happen?', 'how big should the event be?', you have all these things to commit to. So what we have is in a way a scaled back version of previous maker faires but I don’t think anyone [...] [was unhappy]. I was very happy [unintelligible]
+00:19:59: On June 3rd we basically stopped operating as a business. And, you know, the bank froze our accounts, and we’re making sure everyone is getting paid, so the last month has been legal, you know, financial, and sadly I had to let the team go. I talked to them about it.
 
 
 00:20:36:
-And so the reason we’re here today, is that I’m interested…. The assets of Maker Media are now in a new company called Make Community. And the intention is to go forward with that. But my real goal, or how to think about it, is if this should be a non-profit. Some people have said that we should just close the doors and walk away.
+And so the reason we’re here today, is that I’m interested [unint] The assets of Maker Media are now in a new company called Make Community. And the intention is to go forward with. I am the [co?]owner of that, I [don't?] have other people there. But my real goal, or how to think about it, is if this should be a non-profit. [unint] What makes sense? [...] Some people have said to me that Maker Faire served it's purpose, that we should just close the doors and walk away. But I kind of think there are kids born today that have never been to a Maker Faire and I don't think our society will do any better introducing them to these things 5 years from no than it did 5 years ago.
+
+00:21:37
+I've been going through the process of how do I protect it, keep it in a place where it's still relevant to people.
+
+00:21:53
+Even though we still see lots of maker spaces and growing and lots of ways this has spread, there's still a thread back, [unint] [comparison to Montessori and school's marketing]. Or making is STEM that's [unint].
+
+00:22:27
+The other is to try to figure out a model for sustainable growth. I wouldn't be happy if this is the number of makers we have today and will ever have and we have a club and close the door. it about growing and getting more people in there. But the venture capital investment model wasn't a sustainable model. [unint]
+
+00:23:12
+So that's kind of the context. 
+
+00:23:22
+This was a word the last 6 months that someone could just buy maker faire and go off and do things I wasn't proud of. I'd be happy if someone wanted to take it up. But this thing of what this means, I don't think other people really get it.
+
+00:24:04
+This isn't just here in America, I've been spending a lot of time in the middle east lately, seeing the growth over there. [Discusses funding of faires, other governments fund theirs, 'we're in the bay area there are all these billionaires, why I am I supporting this']
+
+[due to room acoustics and recording much of this section is unintelligible]
+
+[discussion about why the funding was lost, and troubles with sponsors at faires] 
+
+00:36:41 [80,000? subscribers to the magazine, 20,000 digital version, 80 books]
+00:37:55 [2.5 million for the BA maker faire 1M corporate sponsorship, 1M or 1.3M? ticket sales, remainder merchandising]
+00:45:30 [discusses MakerEd non profit that he started and may have some ongoing involvement in]
+00:57:00 [advise about privately holding IP and fracturing the businesses into separate entities]
+[800-900 exhibiting makers at BA Maker Faire]
+01:31:40 [What is the deadline for the next maker faire? DALE: The contracts actually get signed pretty late in the process. We can produce it in 6 months. If I made an association, would you join? [applause]]
